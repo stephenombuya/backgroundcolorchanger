@@ -62,5 +62,5 @@ python -m http.server
 Contributions are welcome! Feel free to fork the repository and submit a pull request. Suggestions for improvements are highly appreciated.
 
 ## **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [GNU](https://github.com/stephenombuya/backgroundcolorchanger/) License. See the LICENSE file for more details.
 
